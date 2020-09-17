@@ -1,8 +1,41 @@
-# (##1.)Alexabdr Samokhval
-## (##2.)+375298822760(MTS)
-## (##3.)*Industry,Initiative,Responsibility,Sociability,Educability,Self-organization.*
-## (##4.)Javascript (basic), HTML, CSS, React (basic), Bootstrap, GitHub (basic), VScode.
-## (##5.)
-## (##6.)
-## (##7.)Minsk Trade College (technician-technologist).
-## (##8.)English level (A2).
+<center>[Alexandr Samokhval](https://vk.com/rollskass)<center>
+============
+
+MyEmail                        Rollskasanna@gmail.com
+My phone number                +375298822760(MTS)
+-------------------     ----------------------------
+
+Education
+---------
+
+2012-2016 
+:   **Process engineer**; Minsk State Trade College.
+
+    *Preparation of technological maps, Organization of public catering facilities, Study of technical specifications of equipment*
+
+Experience
+----------
+
+
+Technical Experience
+--------------------
+
+
+
+
+Languages:
+----------
+
+     *Russian (native)
+     *English (A2)
+     *Belorussian.
+
+Skills:
+-------
+
+    *JavaScript(basic)
+    *HTML
+    *CSS
+    *Git(basic)
+    *React(basic)
+    *Bootstrap
