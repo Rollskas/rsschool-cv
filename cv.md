@@ -1,9 +1,9 @@
-<center>[Alexandr Samokhval](https://vk.com/rollskass)<center>
+[Alexandr Samokhval](https://vk.com/rollskass)
 ==============================================================
 
-MyEmail                        Rollskasanna@gmail.com</br>
-My phone number                +375298822760(MTS)</br>
-Country                        Belarus</br>
+MyEmail                        Rollskasanna@gmail.com  
+My phone number                +375298822760(MTS)  
+Country                        Belarus  
 -------------------     ----------------------------
 
 Education
